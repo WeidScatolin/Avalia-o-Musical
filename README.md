@@ -1,4 +1,4 @@
-🎵 Sistema de Avaliação de Músicas
+🎵 Sistema de Avaliação de Músicas 
 Um projeto simples e direto em Java para gerenciar informações de músicas e suas avaliações. Perfeito para quem está começando a entender programação orientada a objetos!
 💡 O que faz?
 Este projeto permite cadastrar músicas com suas informações básicas (título, artista, ano) e receber avaliações dos ouvintes. No final, ele calcula a média das notas dadas.
